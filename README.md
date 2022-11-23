@@ -25,6 +25,17 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
  </p>
 
+### 🔥 My Github Stats
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<div align=center>
+  <div>
+    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyngo-ntkl&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </div>
+  <div>
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=lyngo-ntkl&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
+</div>
+
 ### 🤝  Contact me via:
 <p align="left">
 
