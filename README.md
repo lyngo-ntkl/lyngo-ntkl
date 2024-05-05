@@ -46,6 +46,5 @@
 
   <a href="mailto:lyngo.ntkl@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/512/gmail.png" alt="lyngo-ntkl" width="40" /></a>
   <a href="https://www.linkedin.com/in/ly-ngo-ntkl/" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="lyngo-ntkl" width="40" /></a>
-  <a href="https://fb.com/jung.heechan.3" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook.png" alt="lyngo-ntkl" width="40" /></a>
   <a href="https://github.com/lyngo-ntkl" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/1A6DFF/C822FF/github.png" alt="lyngo-ntkl" width="40" /></a>
 </p>
